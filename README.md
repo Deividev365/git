@@ -1,4 +1,4 @@
-# Comands for sending a file from your local project to the github
+# Comands for sending a file from your local project to the github :octocat:	
 
 ### git init
 ### git remote add origin (file url from github respository)
