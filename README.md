@@ -1,4 +1,5 @@
-# Comands for sending a file from your local project to the github :octocat:	
+# Comands for sending a file from your local project to the github :computer:	
+![front-page](https://github.com/Deividev365/git-commands/blob/master/git.webp)
 
 ### git init
 ### git remote add origin (file url from github respository)
